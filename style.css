@@ -1,0 +1,67 @@
+body {
+    background-color: #00394d;
+    padding: 2%;
+    font-family: 'Monsterrat', sans-serif;
+    color: rgb(206, 204, 204);
+    box-sizing: border-box;
+}
+
+.user1 {
+    position: absolute;
+    top: 45%;
+    right: 5%;
+}
+
+.user2 {
+    position: absolute;
+    top: 5%;
+    right: 8%;
+}
+
+.user3 {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+}
+
+.user4 {
+    position: absolute;
+    bottom: 1%;
+    right: 8%;
+}
+
+.user5 {
+    position: absolute;
+    top: 10%;
+    right: 25%;
+}
+
+.title {
+    width: 100vw;
+    height: 80vh;
+    z-index: 1;
+    position: absolute;
+    top: 20%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(47, 255, 203);
+    font-size: 140px;
+}
+
+p {
+    font-size: 30px;
+    width: 40%;
+}
+
+.btn {
+    background-color: rgb(47, 255, 203);
+    font-weight: bolder;
+    margin: 1% auto;
+    padding: 1%;
+}
+
+h3 {
+    margin: 2% auto;
+}
